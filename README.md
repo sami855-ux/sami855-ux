@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on anything that can boost my skill
 - 📫 you can reach through telegram
 
-[Uplo# 💫 About Me:
-a very secret project and also updating my skill<br>
+
 
 
 ## 🌐 Socials:

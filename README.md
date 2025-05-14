@@ -1,5 +1,6 @@
 
-
+<h3 align="center">Samuel Tale</h3>
+<p laign="center"> Fullstack developer<p/>
 <!-- Social Links with Animated Icons -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sami-tale-49aa79237">

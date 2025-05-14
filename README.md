@@ -50,8 +50,6 @@
 <!-- GitHub Stats with 3D Effect -->
 <div align="center">
   
-<!-- Snake Game Contribution Grid -->
-![Snake animation](https://github.com/sami855-ux/sami855-ux/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Stats Cards -->
 | <img src="https://github-readme-stats.vercel.app/api?username=sami855-ux&show_icons=true&theme=radical&hide_border=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=sami855-ux&theme=radical&hide_border=true" /> |
@@ -71,13 +69,4 @@
 
 </div>
 
-<!-- Activity Graph -->
-### 📈 **My Coding Activity**
-```mermaid
-pie
-    title Weekly Development Breakdown
-    "React Projects" : 35
-    "Node.js Development" : 30
-    "Learning New Tech" : 20
-    "Open Source" : 15
-<!-- Footer with Animation --><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn&reversal=true"/> ```
+

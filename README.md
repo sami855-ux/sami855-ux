@@ -1,7 +1,4 @@
-<!-- Animated Banner -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=800&height=80&lines=Hi+👋,+I'm+Samuel+Tale;Fullstack+Developer+💻;Open-Source+Enthusiast+🌍;From+Ethiopia+🇪🇹" alt="Animated Typing Header" />
-</div>
+
 
 <!-- Social Links with Animated Icons -->
 <p align="center">

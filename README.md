@@ -1,6 +1,20 @@
 
-<h3 align="center">Samuel Tale</h3>
-<p laign="center"> Fullstack developer<p/>
+<div align="center">
+  <h1>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=460&height=60&lines=Samuel+Tale" alt="Typing Name Animation" />
+    </a>
+  </h1>
+  
+  <!-- Animated Subtitle with Floating Effect -->
+  <h3 align="center">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
+    Fullstack Developer 
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  </h3>
+
+  <!-- Glowing Divider -->
+  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png" width="100%"/>
 <!-- Social Links with Animated Icons -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sami-tale-49aa79237">

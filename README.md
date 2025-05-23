@@ -1,87 +1,111 @@
-
 <div align="center">
-  <h1>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=460&height=60&lines=Samuel+Tale" alt="Typing Name Animation" />
-    </a>
-  </h1>
+  <h1>🚀 Full Stack Developer</h1>
+  <p>Hi there! I'm a passionate <strong>Full Stack Developer</strong> with expertise in both frontend and backend technologies. I build modern, scalable, and high-performance web applications.</p>
   
-  <!-- Animated Subtitle with Floating Effect -->
-  <h3 align="center">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
-    Fullstack Developer 
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  </h3>
-
-  <!-- Glowing Divider -->
-  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png" width="100%"/>
-<!-- Social Links with Animated Icons -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/sami-tale-49aa79237">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="mailto:samitale86@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="40" height="40"/>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/sami.tale.18">
-    <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook" width="40" height="40"/>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-  <a href="https://www.instagram.com/sami.tale.18">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/sami855-ux">
-    <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" width="40" height="40"/>
-  </a>
-</p>
-
-<!-- Animated Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=fadeIn"/>
-
-<!-- About Me Section -->
-### 🔥 **About Me**
-- 🚀 Building [E-commerce Website](https://github.com/sami855-ux/E-commerce-Website.git)
-- 📚 Mastering **Advanced Node.js** and **Microservices Architecture**
-- 👨‍💻 Contributor to open-source projects
-- 💡 Problem solver with passion for clean code
-- ☕ Coffee enthusiast who turns caffeine into code
-
-<!-- Tech Stack with Animated Icons -->
-### 🛠️ **Tech Stack**
-#### **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,next,ts,js,tailwind,redux,html,css,sass" />
-</p>
-
-#### **Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" />
-</p>
-
-#### **DevOps & Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,docker,aws,githubactions,postman,figma,vscode" />
-</p>
-
-<!-- GitHub Stats with 3D Effect -->
-<div align="center">
-  
-
-<!-- Stats Cards -->
-| <img src="https://github-readme-stats.vercel.app/api?username=sami855-ux&show_icons=true&theme=radical&hide_border=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=sami855-ux&theme=radical&hide_border=true" /> |
-| ------------- | ------------- |
-
-<!-- Language Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami855-ux&layout=compact&theme=radical&hide_border=true" />
-
 </div>
 
-<!-- Featured Projects -->
-### 🚀 **Featured Projects**
-<div align="center">
-  
-[![E-commerce Website](https://github-readme-stats.vercel.app/api/pin/?username=sami855-ux&repo=E-commerce-Website&theme=dark&show_owner=true)](https://github.com/sami855-ux/E-commerce-Website.git)
-[![Student Management Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=sami855-ux&repo=Student-managment-Dashboard&theme=dark&show_owner=true)](https://github.com/sami855-ux/Student-managment-Dashboard.git)
+---
 
+## 🔧 **Technologies & Skills**
+
+### **Frontend Development**
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js" />
+      <br>Vue.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind CSS" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/favicon.ico" width="48" height="48" alt="Shadcn UI" />
+      <br>Shadcn UI
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="48" height="48" alt="Redux" />
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+      <img src="https://react-query.tanstack.com/_next/static/images/logo-a5167cda8459c3d0d8c70f6a8b1c2d5e.svg" width="48" height="48" alt="React Query" />
+      <br>React Query
+    </td>
+  </tr>
+</table>
+
+### **Backend Development**
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express.js" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="48" height="48" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 **GitHub Stats**
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
 </div>
 
+---
 
+## 📫 **Let's Connect!**
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📧 **Email:** youremail@example.com
+- 🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+
+---
+
+⭐ **Feel free to explore my repositories and contribute!** ⭐

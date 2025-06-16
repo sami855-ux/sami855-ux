@@ -1,141 +1,70 @@
-<div align="center">
-  
-  <!-- Animated Header -->
-  <h1 align="center">
-    <a href="#">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&height=70&lines=🚀+Full+Stack+Developer;💻+React+%7C+Node+%7C+TypeScript;🌐+Building+Web+Solutions;🛠️+Passionate+Coder" alt="Typing SVG" />
-    </a>
-  </h1>
+# 👨‍💻 Fullstack Developer | 3+ Years of Experience  
+Crafting robust web applications using cutting-edge tools like React, Node.js, and TypeScript. Passionate about open-source, scalable backend systems, and modern UI/UX. Currently working on a powerful Node package for authentication.
 
-  <!-- Animated Introduction -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=0e75b6&style=flat" alt="yourusername" /> 
-    <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub followers" />
-  </p>
+---
 
-  <p align="center">
-    Hi there! I'm a passionate <strong>Full Stack Developer</strong> with expertise in both frontend and backend technologies. I build modern, scalable, and high-performance web applications with beautiful user experiences.
-  </p>
+# 💫 About Me:
+- 🔐 Working on a Node.js authentication package
+- 🌱 Constantly learning new tech and cloud practices
+- 📫 Reach me at: samitale86@gmail.com
 
-  <!-- Animated Badges -->
-  <div align="center" style="display: flex; gap: 10px; justify-content: center; margin: 20px 0;">
-    <a href="https://github.com/yourusername" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white&color=3a5a40" alt="GitHub" />
-    </a>
-    <a href="https://linkedin.com/in/yourprofile" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0d3b66" alt="LinkedIn" />
-    </a>
-    <a href="mailto:youremail@example.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=3a86ff" alt="Email" />
-    </a>
-    <a href="https://yourportfolio.com" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-3a5a40?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-    </a>
-  </div>
+## 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiux855/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samitale86@gmail.com)
 
-  <!-- Animated Divider -->
-  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png?raw=true" width="100%" height="2px" />
+---
 
-</div>
+# 💻 Tech Stack:
+> Programming Languages, Libraries, Frameworks, Tools & More
 
-## 🛠️ **Technologies & Skills**
+**Languages:**  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
 
-### **Frontend Development**
-<div align="center">
-  
-  <!-- Animated Tech Stack -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
-    <!-- JavaScript -->
-    <a href="#" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="transition: transform 0.3s ease;" onMouseOver="this.style.transform='scale(1.2)'" onMouseOut="this.style.transform='scale(1)'"/>
-    </a>
-    <!-- React -->
-    <a href="#" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" style="transition: transform 0.3s ease;" onMouseOver="this.style.transform='scale(1.2)'" onMouseOut="this.style.transform='scale(1)'"/>
-    </a>
-    <!-- Next.js -->
-    <a href="#" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="50" height="50" style="transition: transform 0.3s ease; filter: invert(1);" onMouseOver="this.style.transform='scale(1.2)'" onMouseOut="this.style.transform='scale(1)'"/>
-    </a>
-    <!-- TypeScript -->
-    <a href="#" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" style="transition: transform 0.3s ease;" onMouseOver="this.style.transform='scale(1.2)'" onMouseOut="this.style.transform='scale(1)'"/>
-    </a>
-    <!-- Tailwind -->
-    <a href="#" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50" style="transition: transform 0.3s ease;" onMouseOver="this.style.transform='scale(1.2)'" onMouseOut="this.style.transform='scale(1)'"/>
-    </a>
-    <!-- Shadcn -->
-    <a href="#" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/favicon.ico" alt="shadcn" width="50" height="50" style="transition: transform 0.3s ease;" onMouseOver="this.style.transform='scale(1.2)'" onMouseOut="this.style.transform='scale(1)'"/>
-    </a>
-  </div>
-</div>
+**Frontend:**  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=plastic&logo=chakraui&logoColor=white)
 
-### **Backend Development**
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
-    <!-- Node.js -->
-    <a href="#" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" style="transition: transform 0.3s ease;" onMouseOver="this.style.transform='scale(1.2)'" onMouseOut="this.style.transform='scale(1)'"/>
-    </a>
-    <!-- Express -->
-    <a href="#" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50" style="transition: transform 0.3s ease; filter: invert(1);" onMouseOver="this.style.transform='scale(1.2)'" onMouseOut="this.style.transform='scale(1)'"/>
-    </a>
-    <!-- MongoDB -->
-    <a href="#" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" style="transition: transform 0.3s ease;" onMouseOver="this.style.transform='scale(1.2)'" onMouseOut="this.style.transform='scale(1)'"/>
-    </a>
-    <!-- PostgreSQL -->
-    <a href="#" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50" style="transition: transform 0.3s ease;" onMouseOver="this.style.transform='scale(1.2)'" onMouseOut="this.style.transform='scale(1)'"/>
-    </a>
-    <!-- Docker -->
-    <a href="#" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" style="transition: transform 0.3s ease;" onMouseOver="this.style.transform='scale(1.2)'" onMouseOut="this.style.transform='scale(1)'"/>
-    </a>
-  </div>
-</div>
+**Backend / DevOps:**  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 
-<!-- Animated Stats -->
-## 📊 **GitHub Stats**
-<div align="center">
-  
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&background=0d1117&border=3a5a40&stroke=3a86ff&ring=22D3EE&fire=22D3EE&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=22D3EE&sideLabels=FFFFFF&dates=64748b" alt="yourusername" />
-  
-  <!-- Stats -->
-  <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&bg_color=0d1117&title_color=22D3EE&text_color=FFFFFF&icon_color=3a86ff&border_color=3a5a40" alt="yourusername" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&bg_color=0d1117&title_color=22D3EE&text_color=FFFFFF&border_color=3a5a40" alt="yourusername" />
-  </div>
-  
-  <!-- Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&row=1&column=7&no-bg=true&no-frame=true&margin-w=10" alt="yourusername" />
-  
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=0d1117&color=22D3EE&line=3a86ff&point=FFFFFF&area=true&hide_border=true" alt="yourusername" />
-</div>
+**Hosting & Tools:**  
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white)
 
-<!-- Animated Contact Section -->
-## 🌟 **Let's Connect!**
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0d3b66?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-3a86ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-3a5a40?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
+---
 
-<!-- Animated Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3a86ff&height=100&section=footer&text=Thanks+for+visiting!&fontSize=30&fontColor=ffffff&animation=fadeIn" />
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sami855-ux&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=sami855-ux&theme=dark&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sami855-ux&theme=dark&hide_border=true&layout=compact)
+
+---
+
+### ✍️ Dev Quote:
+> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=sami855-ux&icon=4&color=1)](https://visitcount.itsvg.in)
+
+<!-- Made with ❤️ by Sam | GPRM generator -->

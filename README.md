@@ -93,6 +93,4 @@ Crafting robust, scalable applications with modern tech. Passionate about open-s
 </p>
 
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sami855-ux&icon=4&color=6" />
-</p>
+

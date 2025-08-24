@@ -63,7 +63,7 @@ Crafting robust, scalable applications with modern tech. Passionate about open-s
   <!-- Hosting & Tools -->
   <b>Hosting & Tools:</b><br/>
   <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,supabase,git,github,gitlab,bitbucket,postman" height="45" />
-  <img src="https://render.com/favicon-32x32.png" alt="Render" height="45" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Render_logo.svg" alt="Render" height="45" style="margin-right:10px;" />
   <br/><br/>
 
   <!-- Testing & Others -->

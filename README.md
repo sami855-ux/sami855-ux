@@ -41,12 +41,13 @@ Crafting robust, scalable applications with modern tech. Passionate about open-s
 
   <!-- Languages -->
   <b>Languages:</b><br/>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,php,go,rust" height="45" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,php" height="45" />
   <br/><br/>
 
   <!-- Frontend -->
   <b>Frontend:</b><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,materialui,chakra,sass,html,css" height="45" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,materialui,sass,html,css" height="45" />
+  <img src="https://ui.shadcn.com/apple-touch-icon.png" alt="shadcn/ui" height="45" />
   <br/><br/>
 
   <!-- Backend & DB -->
@@ -56,17 +57,18 @@ Crafting robust, scalable applications with modern tech. Passionate about open-s
 
   <!-- Cloud & DevOps -->
   <b>Cloud & DevOps:</b><br/>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,heroku,nginx,kubernetes" height="45" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,heroku,kubernetes" height="45" />
   <br/><br/>
 
   <!-- Hosting & Tools -->
   <b>Hosting & Tools:</b><br/>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,render,supabase,git,github,gitlab,bitbucket,postman" height="45" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,supabase,git,github,gitlab,bitbucket,postman" height="45" />
+  <img src="https://render.com/favicon-32x32.png" alt="Render" height="45" />
   <br/><br/>
 
   <!-- Testing & Others -->
   <b>Testing & Others:</b><br/>
-  <img src="https://skillicons.dev/icons?i=jest,vitest,pytest,figma,linux,vscode" height="45" />
+  <img src="https://skillicons.dev/icons?i=jest,vitest,figma,linux,vscode" height="45" />
 </p>
 
 

@@ -36,25 +36,39 @@ Crafting robust, scalable applications with modern tech. Passionate about open-s
 
 
 ## Tech Stack
+
 <p align="left">
+
   <!-- Languages -->
+  <b>Languages:</b><br/>
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,php,go,rust" height="45" />
-  <br/>
+  <br/><br/>
+
   <!-- Frontend -->
+  <b>Frontend:</b><br/>
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,materialui,chakra,sass,html,css" height="45" />
-  <br/>
+  <br/><br/>
+
   <!-- Backend & DB -->
+  <b>Backend & Databases:</b><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,nestjs,mongodb,mysql,postgres,prisma,docker,graphql" height="45" />
-  <br/>
+  <br/><br/>
+
   <!-- Cloud & DevOps -->
+  <b>Cloud & DevOps:</b><br/>
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,heroku,nginx,kubernetes" height="45" />
-  <br/>
+  <br/><br/>
+
   <!-- Hosting & Tools -->
+  <b>Hosting & Tools:</b><br/>
   <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,render,supabase,git,github,gitlab,bitbucket,postman" height="45" />
-  <br/>
+  <br/><br/>
+
   <!-- Testing & Others -->
+  <b>Testing & Others:</b><br/>
   <img src="https://skillicons.dev/icons?i=jest,vitest,pytest,figma,linux,vscode" height="45" />
 </p>
+
 
 
 

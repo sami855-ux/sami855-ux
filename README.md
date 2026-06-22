@@ -7,7 +7,7 @@ Crafting robust, scalable applications with modern tech. Passionate about open-s
 
 ## About Me
 - Fullstack developer with 3+ years of experience building scalable web apps  
-- Currently building a Node.js authentication package  
+- Currently building a Next. js authentication package  
 - Always exploring new cloud & backend technologies  
 - Passionate about modern UI/UX and user-centered design  
 - Experienced with microservices, REST APIs, and real-time apps  

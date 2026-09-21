@@ -1,5 +1,5 @@
 <!-- Banner / Title -->
-<h1 align="left">Fullstack Website and App Developer</h1>
+<h1 align="left">Fullstack Website and Mobile App Developer</h1>
 <p align="left">
 Crafting robust, scalable applications with modern tech. Passionate about open-source, authentication systems, and sleek UI/UX design.
 </p>

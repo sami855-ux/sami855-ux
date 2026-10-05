@@ -15,6 +15,4 @@
   <img src="https://streak-stats.demolab.com/?user=sami855-ux&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami855-ux&theme=tokyonight&hide_border=true&layout=compact" height="160"/>
-</p>
+
